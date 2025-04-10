@@ -1,0 +1,44 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+body {
+  max-width: 1140px;
+  margin: 0 auto;
+  height: 100dvh;
+  width: 100%;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #fff;
+  display: block;
+  /* padding: .5rem 1rem; */
+}
+
+.body {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: 'Alegreya Sans',sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.nav-item {
+  padding: .5rem 1rem;
+  color: #212529;
+}
+
+.dropdown-toggle::after, .dropup .dropdown-toggle::after {
+  vertical-align: .255em;
+  content: "";
+}
+
+.dropdown-toggle::after {
+  display: inline-block;
+  margin-left: .255em;
+  border-top: .3em solid;
+  border-right: .3em solid transparent;
+  border-bottom: 0;
+  border-left: .3em solid transparent;
+}
+
+.nav-item:hover {
+  color: #007bff;
+}
