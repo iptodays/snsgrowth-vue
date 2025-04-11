@@ -73,3 +73,15 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+Please Ensure The Following:
+  
+  - Your **Instagram** account is set to **public**.
+  - You have typed in the **correct Instagram username**.
+  - You have **not changed your Instagram username** before the order’s completion.
+  - The **account or post**, still exists and has **not been deleted**.
+  - The video follows Instagram’s guidelines and has **not been restricted** or removed.
+  - **Allow 24 hours** for completion of order delivery.
+
+You can always contact our customer support agents that are Ready to assist you 24/7.
